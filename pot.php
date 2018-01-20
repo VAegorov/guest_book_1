@@ -9,3 +9,4 @@ echo "</pre>";
 
 echo "<hr>";
 echo $a3[1][2][8];
+
